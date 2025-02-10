@@ -133,27 +133,27 @@ This repository documents my journey through freeCodeCamp's JavaScript Algorithm
 
 ## ✅ Completed Courses
 
-| #   | Course Name                     | Status          |
-| --- | ------------------------------- | --------------- |
-| 1   | Pyramid Generator               | **In Progress** |
-| 2   | GradeBook App                   |                 |
-| 3   | Role Playing Game               |                 |
-| 4   | Random Background Color Changer |                 |
-| 5   | Calorie Counter                 |                 |
-| 6   | Rock, Paper, Scissors Game      |                 |
-| 7   | Music Player                    |                 |
-| 8   | Date Formatter                  |                 |
-| 9   | Football Team Cards             |                 |
-| 10  | Todo App                        |                 |
-| 11  | Spam Filter                     |                 |
-| 12  | Number Sorter                   |                 |
-| 13  | Statistics Calculator           |                 |
-| 14  | Spreadsheet                     |                 |
-| 15  | Shopping Cart                   |                 |
-| 16  | PlatFormer Game                 |                 |
-| 17  | Dice Game                       |                 |
-| 18  | fCC Authors Page                |                 |
-| 19  | fCC Forum Leaderboard           |                 |
+| #   | Course Name                     | Status            |
+| --- | ------------------------------- | ----------------- |
+| 1   | Pyramid Generator               | **Completed**     |
+| 2   | GradeBook App                   | **_In Progress_** |
+| 3   | Role Playing Game               |                   |
+| 4   | Random Background Color Changer |                   |
+| 5   | Calorie Counter                 |                   |
+| 6   | Rock, Paper, Scissors Game      |                   |
+| 7   | Music Player                    |                   |
+| 8   | Date Formatter                  |                   |
+| 9   | Football Team Cards             |                   |
+| 10  | Todo App                        |                   |
+| 11  | Spam Filter                     |                   |
+| 12  | Number Sorter                   |                   |
+| 13  | Statistics Calculator           |                   |
+| 14  | Spreadsheet                     |                   |
+| 15  | Shopping Cart                   |                   |
+| 16  | PlatFormer Game                 |                   |
+| 17  | Dice Game                       |                   |
+| 18  | fCC Authors Page                |                   |
+| 19  | fCC Forum Leaderboard           |                   |
 
 ## 🎖️ Certification Projects
 
