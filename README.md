@@ -138,7 +138,7 @@ This repository documents my journey through freeCodeCamp's JavaScript Algorithm
 | 1   | Pyramid Generator               | **Completed** |
 | 2   | GradeBook App                   | **Completed** |
 | 3   | Role Playing Game               | **Completed** |
-| 4   | Random Background Color Changer |               |
+| 4   | Random Background Color Changer | **Completed** |
 | 5   | Calorie Counter                 |               |
 | 6   | Rock, Paper, Scissors Game      |               |
 | 7   | Music Player                    |               |
