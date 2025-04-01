@@ -101,7 +101,7 @@
     <tr>
       <td align="center">6</td>
       <td align="left">Rock, Paper, Scissors Game</td>
-      <td align="center">⏳</td>
+      <td align="center">✅</td>
       <td align="left">DOM manipulation, conditionals, game logic</td>
     </tr>
     <tr>
