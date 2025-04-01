@@ -263,18 +263,6 @@ A web application that fetches and displays author data from an external API wit
 
 A real-time leaderboard displaying forum activity metrics fetched from external APIs. The implementation features asynchronous data retrieval, error handling with try/catch statements, and automated refresh capabilities to keep the display current.
 
-## 🔮 Future Courses
-
-The remaining courses will cover a wide range of JavaScript concepts including:
-
-- Audio manipulation and playback
-- Date/time formatting
-- Local storage
-- API interactions with async JavaScript
-- Sorting algorithms visualization
-- Regular expressions
-- Advanced OOP concepts
-
 ## 🙏 Acknowledgements
 
 - [freeCodeCamp](https://www.freecodecamp.org/) for providing this comprehensive curriculum
