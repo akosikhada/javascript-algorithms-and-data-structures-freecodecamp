@@ -79,10 +79,19 @@ const allSongs = [
 ];
 
 const audio = new Audio();
+
 let userData = {
   songs: [...allSongs],
   currentSong: null,
   songCurrentTime: 0,
 };
 
-// Step 11 In Progress
+const renderSongs = (array) => {
+  const songsHTML = array.map((song) => {
+    return `
+      <li id="song-${song.id}" class="playlist-song">
+      // TODO: Create a button element with class playlist-song-info. Inside the button, add a span element with the class playlist-song-title, then interpolate song.title as the text.
+      </li>
+      `;
+  });
+};
