@@ -1,191 +1,100 @@
-# 🚀 JavaScript Algorithms and Data Structures - freeCodeCamp
+# JavaScript Algorithms and Data Structures Certification Projects
 
-<p align="center">
-  <a href="https://www.freecodecamp.org/">
-    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" />
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+This repository documents my journey through the freeCodeCamp JavaScript Algorithms and Data Structures curriculum. It features a collection of hands-on projects and algorithmic challenges, showcasing both fundamental and advanced JavaScript skills. The projects span from simple utilities to interactive web applications, each designed to reinforce core programming concepts and best practices.
 
-<p align="center">
-  This repository documents my journey through freeCodeCamp's JavaScript Algorithms and Data Structures curriculum. It showcases my dedication to mastering JavaScript and strengthening my programming foundation while demonstrating the power and versatility of JavaScript, from fundamental concepts to more complex applications.
-</p>
+---
 
-## 🏆 Certification Projects
+## 🚩 Overview
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">#</th>
-      <th align="left">Project Name</th>
-      <th align="center">Status</th>
-      <th align="left">Key Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td align="left">Palindrome Checker</td>
-      <td align="center">⏳</td>
-      <td align="left">String manipulation, algorithmic thinking</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="left">Roman Numeral Converter</td>
-      <td align="center">⏳</td>
-      <td align="left">Algorithmic thinking, number systems</td>
-    </tr>
-    <tr>
-      <td align="center">3</td>
-      <td align="left">Telephone Number Validator</td>
-      <td align="center">⏳</td>
-      <td align="left">Regular expressions, pattern matching</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td align="left">Cash Register</td>
-      <td align="center">⏳</td>
-      <td align="left">Currency handling, algorithmic thinking</td>
-    </tr>
-    <tr>
-      <td align="center">5</td>
-      <td align="left">Pokemon Search App</td>
-      <td align="center">⏳</td>
-      <td align="left">API interaction, asynchronous programming</td>
-    </tr>
-  </tbody>
-</table>
+- **Curriculum:** [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/)
+- **Focus:** Mastery of JavaScript through real-world projects and algorithmic problem-solving
+- **Status:** In Progress (see project table below for details)
+- **Project Types:** Console/CLI scripts, browser-based apps, games, utilities
 
-## 🎯 Course Progress
+---
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">#</th>
-      <th align="left">Course Name</th>
-      <th align="center">Status</th>
-      <th align="left">Key Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td align="left"><b>Pyramid Generator</b></td>
-      <td align="center">✅</td>
-      <td align="left">Arrays, strings, functions, loops, conditionals</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="left"><b>GradeBook App</b></td>
-      <td align="center">✅</td>
-      <td align="left">Functions, variables, conditionals, data manipulation</td>
-    </tr>
-    <tr>
-      <td align="center">3</td>
-      <td align="left"><b>Role Playing Game</b></td>
-      <td align="center">✅</td>
-      <td align="left">Objects, game logic, event handling, DOM manipulation</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td align="left"><b>Random Background Color Changer</b></td>
-      <td align="center">✅</td>
-      <td align="left">DOM manipulation, event handling, debugging, color generation</td>
-    </tr>
-    <tr>
-      <td align="center">5</td>
-      <td align="left"><b>Calorie Counter</b></td>
-      <td align="center">✅</td>
-      <td align="left">Form validation, calculations, DOM updates, event handling</td>
-    </tr>
-    <tr>
-      <td align="center">6</td>
-      <td align="left">Rock, Paper, Scissors Game</td>
-      <td align="center">✅</td>
-      <td align="left">DOM manipulation, conditionals, game logic</td>
-    </tr>
-    <tr>
-      <td align="center">7</td>
-      <td align="left">Music Player</td>
-      <td align="center">⏳</td>
-      <td align="left">Audio API, playlist management, array methods</td>
-    </tr>
-    <tr>
-      <td align="center">8</td>
-      <td align="left">Date Formatter</td>
-      <td align="center">⏳</td>
-      <td align="left">Date object, string formatting, time manipulation</td>
-    </tr>
-    <tr>
-      <td align="center">9</td>
-      <td align="left">Football Team Cards</td>
-      <td align="center">⏳</td>
-      <td align="left">Data processing, object destructuring, DOM updates</td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td align="left">Todo App</td>
-      <td align="center">⏳</td>
-      <td align="left">CRUD operations, local storage, form handling</td>
-    </tr>
-    <tr>
-      <td align="center">11</td>
-      <td align="left">Spam Filter</td>
-      <td align="center">⏳</td>
-      <td align="left">Regular expressions, pattern matching, text filtering</td>
-    </tr>
-    <tr>
-      <td align="center">12</td>
-      <td align="left">Number Sorter</td>
-      <td align="center">⏳</td>
-      <td align="left">Sorting algorithms, algorithmic thinking, visualization</td>
-    </tr>
-    <tr>
-      <td align="center">13</td>
-      <td align="left">Statistics Calculator</td>
-      <td align="center">⏳</td>
-      <td align="left">Array methods, statistical calculations, method chaining</td>
-    </tr>
-    <tr>
-      <td align="center">14</td>
-      <td align="left">Spreadsheet</td>
-      <td align="center">⏳</td>
-      <td align="left">Expression parsing, functional programming, data structures</td>
-    </tr>
-    <tr>
-      <td align="center">15</td>
-      <td align="left">Shopping Cart</td>
-      <td align="center">⏳</td>
-      <td align="left">Object-Oriented Programming, classes, this keyword</td>
-    </tr>
-    <tr>
-      <td align="center">16</td>
-      <td align="left">PlatFormer Game</td>
-      <td align="center">⏳</td>
-      <td align="left">OOP, inheritance, game development, physics</td>
-    </tr>
-    <tr>
-      <td align="center">17</td>
-      <td align="left">Dice Game</td>
-      <td align="center">⏳</td>
-      <td align="left">Game state management, algorithmic thinking, UI updates</td>
-    </tr>
-    <tr>
-      <td align="center">18</td>
-      <td align="left">fCC Authors Page</td>
-      <td align="center">⏳</td>
-      <td align="left">API interaction, fetch, async/await, pagination</td>
-    </tr>
-    <tr>
-      <td align="center">19</td>
-      <td align="left">fCC Forum Leaderboard</td>
-      <td align="center">⏳</td>
-      <td align="left">Promises, async/await, error handling, data processing</td>
-    </tr>
-  </tbody>
-</table>
+## ✨ Features
 
-## 📚 Course Descriptions
+- **Comprehensive Coverage:** From basic string/array manipulation to DOM, OOP, and async programming
+- **Diverse Projects:** Games, calculators, utilities, and data-driven apps
+- **Modern JavaScript:** ES6+ syntax, array methods, event handling, and more
+- **Self-Contained:** Most projects require only a web browser or Node.js
+- **Progress Tracking:** Visual status for each project (✅ Complete, ⏳ In Progress)
+
+---
+
+## 📋 Project List
+
+| #   | Project Name                    | Status | Key Skills                                   |
+| --- | ------------------------------- | ------ | -------------------------------------------- |
+| 1   | Pyramid Generator               | ✅     | Arrays, strings, loops, functions            |
+| 2   | GradeBook App                   | ✅     | Functions, data manipulation, conditionals   |
+| 3   | Role Playing Game               | ✅     | OOP, game logic, DOM, event handling         |
+| 4   | Random Background Color Changer | ✅     | DOM, events, debugging, color generation     |
+| 5   | Calorie Counter                 | ✅     | Form validation, calculations, DOM updates   |
+| 6   | Rock, Paper, Scissors Game      | ✅     | DOM, conditionals, game logic                |
+| 7   | Music Player                    | ⏳     | Audio API, playlist, array methods           |
+| 8   | Date Formatter                  | ⏳     | Date object, string formatting               |
+| 9   | Football Team Cards             | ⏳     | Data processing, object destructuring        |
+| 10  | Todo App                        | ⏳     | CRUD, local storage, form handling           |
+| 11  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
+| 12  | Number Sorter                   | ⏳     | Sorting algorithms, visualization            |
+| 13  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
+| 14  | Spreadsheet                     | ⏳     | Expression parsing, data structures          |
+| 15  | Shopping Cart                   | ⏳     | OOP, classes, e-commerce logic               |
+| 16  | PlatFormer Game                 | ⏳     | OOP, inheritance, game development           |
+| 17  | Dice Game                       | ⏳     | Game state, UI updates, algorithmic thinking |
+| 18  | fCC Authors Page                | ⏳     | API, fetch, async/await, pagination          |
+| 19  | fCC Forum Leaderboard           | ⏳     | Promises, async/await, error handling        |
+
+---
+
+## ⚙️ Setup
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (for CLI/console projects)
+- Modern web browser (for browser-based projects)
+
+### Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/akosikhada/javascript-algorithms-and-data-structures-freecodecamp.git
+   cd javascript-algorithms-and-data-structures-freecodecamp
+   ```
+2. **Navigate to a project directory:**
+   - For example: `cd "#03 - ROLE PLAYING GAME"`
+
+---
+
+## 🚀 Usage
+
+### Browser-Based Projects
+
+- Open the `index.html` file in your preferred browser.
+- Example:
+  ```
+  cd "#06 - ROCK, PAPER, SCISSORS GAME"
+  start index.html   # On Windows
+  # or
+  open index.html    # On macOS
+  # or
+  xdg-open index.html # On Linux
+  ```
+
+### Console/CLI Projects
+
+- Run the JavaScript file using Node.js:
+- Example:
+  ```
+  cd "#01 - PYRAMID GENERATOR"
+  node script.js
+  ```
+
+---
+
+## 🧩 Project Descriptions
 
 ### 🏛 Pyramid Generator
 
@@ -263,14 +172,8 @@ A web application that fetches and displays author data from an external API wit
 
 A real-time leaderboard displaying forum activity metrics fetched from external APIs. The implementation features asynchronous data retrieval, error handling with try/catch statements, and automated refresh capabilities to keep the display current.
 
-## 🙏 Acknowledgements
-
-- [freeCodeCamp](https://www.freecodecamp.org/) for providing this comprehensive curriculum
-
 ---
 
 <p align="center">
-  <sub>
-    Built with ❤️ while learning JavaScript at freeCodeCamp
-  </sub>
+  <sub>Built with ❤️ while learning JavaScript at freeCodeCamp</sub>
 </p>
