@@ -33,8 +33,8 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 4   | Random Background Color Changer | ✅     | DOM, events, debugging, color generation     |
 | 5   | Calorie Counter                 | ✅     | Form validation, calculations, DOM updates   |
 | 6   | Rock, Paper, Scissors Game      | ✅     | DOM, conditionals, game logic                |
-| 7   | Music Player                    | ⏳     | Audio API, playlist, array methods           |
-| 8   | Date Formatter                  | ⏳     | Date object, string formatting               |
+| 7   | Music Player                    | ✅     | Audio API, playlist, array methods           |
+| 8   | Date Formatter                  | ✅     | Date object, string formatting               |
 | 9   | Football Team Cards             | ⏳     | Data processing, object destructuring        |
 | 10  | Todo App                        | ⏳     | CRUD, local storage, form handling           |
 | 11  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
