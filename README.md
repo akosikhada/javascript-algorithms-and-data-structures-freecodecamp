@@ -48,7 +48,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 7   | Music Player                    | ✅     | Audio API, playlist, array methods           |
 | 8   | Date Formatter                  | ✅     | Date object, string formatting               |
 | 9   | Football Team Cards             | ✅     | Data processing, object destructuring        |
-| 10  | Todo App                        | ⏳     | CRUD, local storage, form handling           |
+| 10  | Todo App                        | ✅     | CRUD, local storage, form handling           |
 | 11  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
 | 12  | Number Sorter                   | ⏳     | Sorting algorithms, visualization            |
 | 13  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
