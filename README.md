@@ -49,15 +49,16 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 8   | Date Formatter                  | ✅     | Date object, string formatting               |
 | 9   | Football Team Cards             | ✅     | Data processing, object destructuring        |
 | 10  | Todo App                        | ✅     | CRUD, local storage, form handling           |
-| 11  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
-| 12  | Number Sorter                   | ⏳     | Sorting algorithms, visualization            |
-| 13  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
-| 14  | Spreadsheet                     | ⏳     | Expression parsing, data structures          |
-| 15  | Shopping Cart                   | ⏳     | OOP, classes, e-commerce logic               |
-| 16  | PlatFormer Game                 | ⏳     | OOP, inheritance, game development           |
-| 17  | Dice Game                       | ⏳     | Game state, UI updates, algorithmic thinking |
-| 18  | fCC Authors Page                | ⏳     | API, fetch, async/await, pagination          |
-| 19  | fCC Forum Leaderboard           | ⏳     | Promises, async/await, error handling        |
+| 11  | Decimal to Binary Converter     | ⏳     | Recursion, algorithmic thinking, animation   |
+| 12  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
+| 13  | Number Sorter                   | ⏳     | Sorting algorithms, visualization            |
+| 14  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
+| 15  | Spreadsheet                     | ⏳     | Expression parsing, data structures          |
+| 16  | Shopping Cart                   | ⏳     | OOP, classes, e-commerce logic               |
+| 17  | PlatFormer Game                 | ⏳     | OOP, inheritance, game development           |
+| 18  | Dice Game                       | ⏳     | Game state, UI updates, algorithmic thinking |
+| 19  | fCC Authors Page                | ⏳     | API, fetch, async/await, pagination          |
+| 20  | fCC Forum Leaderboard           | ⏳     | Promises, async/await, error handling        |
 
 ---
 
@@ -147,6 +148,10 @@ An interactive card display system for football team players. This application p
 ### ✅ Todo App
 
 A complete task management application with data persistence using browser local storage. Users can create, read, update, and delete tasks while organizing them by priority or completion status. The interface includes dynamic filtering capabilities and visual indicators for task status.
+
+### 🔢 Decimal to Binary Converter
+
+A project that converts decimal numbers to binary using recursive techniques. This application demonstrates the power of recursion by breaking down the conversion process into simpler sub-problems. Features include a step-by-step visualization of the recursion process, call stack exploration, and an animated interface showing how the binary representation is built through recursive function calls.
 
 ### 🚫 Spam Filter
 
