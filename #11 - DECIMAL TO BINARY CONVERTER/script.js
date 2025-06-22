@@ -1,53 +1,14 @@
-const callStack = [
-  'a(): returns "freeCodeCamp " + b()',
-  'b(): returns "is " + c()',
-  'c(): returns "awesome!"',
-];
-
-// TODO: Manage Call Stack
-// 1. Understand the call stack order
-//    a() is at the bottom (first call)
-//    b() is in the middle (called by a())
-//    c() is at the top (called by b())
-// 2. Execution order
-//    Functions execute from the top of the stack downwards (c(), then b(), then a())
-// 3. When c() executes
-//    It returns the string "awesome!"
-//    c() is then popped off (removed) from the top of the callStack array.
-// Action:
-// Remove "c(): returns 'awesome!'" from the top of the callStack array.
-
-const a = () => {
-  return "freeCodeCamp " + b();
-};
-
-const b = () => {
-  return "is " + c();
-};
-
-const c = () => {
-  return "awesome!";
-};
-
-console.log(a());
-
 const numberInput = document.getElementById("number-input");
 const convertBtn = document.getElementById("convert-btn");
 const result = document.getElementById("result");
 
+// TODO: Step 71 - Update the base case in decimalToBinary() to return "0" instead of an empty string when the input is 0.
 const decimalToBinary = (input) => {
-  let binary = "";
-
   if (input === 0) {
-    binary = "0";
+    return "";
+  } else {
+    return decimalToBinary(Math.floor(input / 2)) + (input % 2);
   }
-
-  while (input > 0) {
-    binary = (input % 2) + binary;
-    input = Math.floor(input / 2);
-  }
-
-  result.innerText = binary;
 };
 
 const checkUserInput = () => {
@@ -60,7 +21,7 @@ const checkUserInput = () => {
     return;
   }
 
-  decimalToBinary(parseInt(numberInput.value));
+  result.textContent = decimalToBinary(parseInt(numberInput.value));
   numberInput.value = "";
 };
 
