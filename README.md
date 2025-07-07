@@ -18,7 +18,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | #   | Project Name               | Status | Key Skills                                |
 | --- | -------------------------- | ------ | ----------------------------------------- |
 | 1   | Palindrome Checker         | ✅     | String manipulation, algorithmic thinking |
-| 2   | Roman Numeral Converter    | ⏳     | Algorithmic thinking, number systems      |
+| 2   | Roman Numeral Converter    | ✅     | Algorithmic thinking, number systems      |
 | 3   | Telephone Number Validator | ⏳     | Regular expressions, pattern matching     |
 | 4   | Cash Register              | ⏳     | Currency handling, algorithmic thinking   |
 | 5   | Pokemon Search App         | ⏳     | API interaction, asynchronous programming |
@@ -49,7 +49,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 8   | Date Formatter                  | ✅     | Date object, string formatting               |
 | 9   | Football Team Cards             | ✅     | Data processing, object destructuring        |
 | 10  | Todo App                        | ✅     | CRUD, local storage, form handling           |
-| 11  | Decimal to Binary Converter     | ⏳     | Recursion, algorithmic thinking, animation   |
+| 11  | Decimal to Binary Converter     | ✅     | Recursion, algorithmic thinking, animation   |
 | 12  | Spam Filter                     | ⏳     | Regex, pattern matching, text filtering      |
 | 13  | Number Sorter                   | ⏳     | Sorting algorithms, visualization            |
 | 14  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
