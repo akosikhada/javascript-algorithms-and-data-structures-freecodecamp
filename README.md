@@ -52,7 +52,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 11  | Decimal to Binary Converter     | ✅     | Recursion, algorithmic thinking, animation   |
 | 12  | Spam Filter                     | ✅     | Regex, pattern matching, text filtering      |
 | 13  | Number Sorter                   | ✅     | Sorting algorithms, visualization            |
-| 14  | Statistics Calculator           | ⏳     | Array methods, statistics, chaining          |
+| 14  | Statistics Calculator           | ✅     | Array methods, statistics, chaining          |
 | 15  | Spreadsheet                     | ⏳     | Expression parsing, data structures          |
 | 16  | Shopping Cart                   | ⏳     | OOP, classes, e-commerce logic               |
 | 17  | PlatFormer Game                 | ⏳     | OOP, inheritance, game development           |
