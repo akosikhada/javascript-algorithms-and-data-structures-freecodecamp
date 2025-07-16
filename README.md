@@ -53,7 +53,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | 12  | Spam Filter                     | ✅     | Regex, pattern matching, text filtering      |
 | 13  | Number Sorter                   | ✅     | Sorting algorithms, visualization            |
 | 14  | Statistics Calculator           | ✅     | Array methods, statistics, chaining          |
-| 15  | Spreadsheet                     | ⏳     | Expression parsing, data structures          |
+| 15  | Spreadsheet                     | ✅     | Expression parsing, data structures          |
 | 16  | Shopping Cart                   | ⏳     | OOP, classes, e-commerce logic               |
 | 17  | PlatFormer Game                 | ⏳     | OOP, inheritance, game development           |
 | 18  | Dice Game                       | ⏳     | Game state, UI updates, algorithmic thinking |
