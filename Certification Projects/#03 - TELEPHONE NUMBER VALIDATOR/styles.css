@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: #222;
+  color: #fff;
+  padding: 2rem 0 1rem 0;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+header > h2 {
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 0.5rem;
+}
+
+.main-title {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0;
+  color: #4f8cff;
+}
+
+.phone {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.phone-ctn {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(79, 140, 255, 0.12);
+  padding: 2.5rem 2rem 2rem 2rem;
+  min-width: 340px;
+  max-width: 400px;
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.input-ctn {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.input-ctn > label {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #222;
+  margin-bottom: 0.2rem;
+}
+
+#user-input {
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #bfc8d6;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+#user-input:focus {
+  border-color: #4f8cff;
+  outline: none;
+}
+
+.btn-ctn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.btn-ctn button {
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  border: none;
+  background: #4f8cff;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(79, 140, 255, 0.08);
+  transition: background 0.2s, transform 0.2s;
+}
+
+.btn-ctn button:hover {
+  background: #357ae8;
+  transform: translateY(-2px);
+}
+
+#results-div {
+  min-height: 2.2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+}
+
+.valid-result {
+  background: #e6f9e6;
+  color: #2e7d32;
+  border: 1px solid #2e7d32;
+}
+
+.invalid-result {
+  background: #ffeaea;
+  color: #c62828;
+  border: 1px solid #c62828;
+}
+
+footer {
+  margin-top: auto;
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+}
