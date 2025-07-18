@@ -19,7 +19,7 @@ This repository documents my journey through the freeCodeCamp JavaScript Algorit
 | --- | -------------------------- | ------ | ----------------------------------------- |
 | 1   | Palindrome Checker         | ✅     | String manipulation, algorithmic thinking |
 | 2   | Roman Numeral Converter    | ✅     | Algorithmic thinking, number systems      |
-| 3   | Telephone Number Validator | ⏳     | Regular expressions, pattern matching     |
+| 3   | Telephone Number Validator | ✅     | Regular expressions, pattern matching     |
 | 4   | Cash Register              | ⏳     | Currency handling, algorithmic thinking   |
 | 5   | Pokemon Search App         | ⏳     | API interaction, asynchronous programming |
 
